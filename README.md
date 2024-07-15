@@ -1,3 +1,9 @@
+# DEPRECATED
+
+Use the upstream version instead as it is more up to date than this version
+
+https://github.com/linaro-its/aws2-wrap
+
 # aws2-wrap
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=linaro-its_aws2-wrap&metric=alert_status)](https://sonarcloud.io/dashboard?id=linaro-its_aws2-wrap)
